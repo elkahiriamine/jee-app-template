@@ -1,0 +1,10 @@
+# Ignore build artifacts
+target/
+build/
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+
+# Ignore logs
+logs/
