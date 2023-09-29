@@ -21,6 +21,7 @@
 <p></p>
 <div>
     <p>Payment Monthly : <%= model.getPaymentMonthly() %></p>
+    <p>Without any adding values</p>
 </div>
 </body>
 </html>
