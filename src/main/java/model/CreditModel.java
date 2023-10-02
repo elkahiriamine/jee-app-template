@@ -15,6 +15,7 @@ public class CreditModel implements Serializable {
         this.paymentMonthly = paymentMonthly;
     }
 
+
     public CreditModel() {
     }
 
